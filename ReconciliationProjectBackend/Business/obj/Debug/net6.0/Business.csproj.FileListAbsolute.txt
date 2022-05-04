@@ -10,3 +10,10 @@ C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Bus
 C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\obj\Debug\net6.0\refint\Business.dll
 C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\bin\Debug\net6.0\Core.dll
+C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\bin\Debug\net6.0\Entities.dll
+C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\bin\Debug\net6.0\Entities.pdb
+C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\bin\Debug\net6.0\Core.pdb
+C:\Users\Poseidon\Desktop\ReconciliationProject\ReconciliationProjectBackend\Business\obj\Debug\net6.0\Business.csproj.CopyComplete

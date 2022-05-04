@@ -9,13 +9,15 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.EntityFramework.Context
 {
+    //Veri tabanı ile programımız arasındaki bağlantıyı gerçekleştirdiğimiz alan
     public class ContextDb : DbContext
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server=POSEIDON\MSSQLSERVER1; Database=ReconcilationDb;IntegratedSecurity=true");
+            optionsBuilder.UseSqlServer(@"Server=POSEIDON\MSSQLSERVER1; Database=ReconcilationDb;Integrated Security=true");
         }
 
+        //Oluşturduğumuz veri tablolarını tek tek tanımlıyoruz.
         public DbSet<AccountReconciliation> AccountReconciliations { get; set; }
         public DbSet<AccountReconciliationDetail> AccountReconciliationDetail { get; set; }
         public DbSet<BaBsReconciliation> BaBsReconciliations { get; set; }
